@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScheduleMeetingUI</string>
+    <string name="schedule_meeting">Schedule Meeting</string>
+    <string name="nrupul_dev">Nrupul Dev</string>
+    <string name="date">Tue-22-December 2020</string>
+    <string name="time">11:30 am</string>
+    <string name="people_to_invite">People to invite</string>
+    <string name="prateek">Prateek</string>
+    <string name="jeff_bezos">Jeff Bezos</string>
+    <string name="notify_people_on_slack">Notify People On Slack ?</string>
+</resources>
